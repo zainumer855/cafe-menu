@@ -5,6 +5,8 @@
 
 body{
     background-image: url(./images/beans-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
     font-family: sans-serif;
     margin: 20px;
 }
@@ -63,12 +65,12 @@ img{
 
 .flavor{
     text-align: left;
-    width: 50%;
+    width: 75%;
 }
 
 .price{
     text-align: right;
-    width: 50%;
+    width: 25%;
 
 }
 
